@@ -1,0 +1,23 @@
+.task-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .task-card {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+  }
+  
+  .task-card h3 {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .task-card p {
+    margin: 10px 0;
+  }
