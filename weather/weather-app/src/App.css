@@ -1,0 +1,23 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.Weather {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f7f7f7;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.Weather h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.Weather input {
+  padding: 10px;
+  font-size: 16px;
+}
